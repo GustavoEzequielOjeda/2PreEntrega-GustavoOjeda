@@ -44,3 +44,29 @@ article{
 .carousel-bs{
     padding-top: 1.5rem;
 }
+
+/* footer */
+.footer-links{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 0.5rem;
+    padding-top: 1rem;
+    background-color: rgb(35, 35, 189);
+    color: white;
+}
+
+.text-foteer-links{
+    list-style: none;
+}
+
+.copyright{
+    color: white;
+    font-size: 1px;
+    background-color: black;
+    text-align: center;
+}
+
+.text-copyright{
+    font-size: 12px;
+    padding:4px;
+}
