@@ -1,11 +1,28 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* header */
 header{
-    background-color: rgb(235, 235, 235);
+    background-color: rgb(255, 255, 255);
 }
 
-/* main */
+/* intro */
+.inicio{
+    background-image: url(../image/familia.jpeg);
+    color: white;
+    text-decoration: none;
+    padding-top: 6rem;
+    padding-bottom: 2rem;
+    padding-left: 16%;
+}
+
+.texto-inicio{
+    padding-bottom: 0.5rem;
+}
+
+.h1-inicio{
+    font-size: 4rem;
+}
