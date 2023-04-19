@@ -26,3 +26,16 @@ header{
 .h1-inicio{
     font-size: 4rem;
 }
+
+/* card */
+article{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+ }
+
+.card{
+    margin-top: 1.5rem;
+    margin-right: 1.5rem;
+    margin-left: 1.5rem;
+}
