@@ -52,12 +52,13 @@ header{
     justify-content: space-evenly;
     margin-top: 0.5rem;
     padding-top: 1rem;
-    background-color: rgb(35, 35, 189);
+    background-color: rgb(4, 62, 100);
     color: white;
 }
 
 .text-foteer-links{
     list-style: none;
+    font-size: x;
 }
 
 .copyright{
@@ -72,7 +73,24 @@ header{
     padding:4px;
 }
 
+a:visited{
+    color: white;
+}
+
+a:active{
+    color: white;
+}
+
+a:link{
+    color: white;
+}
+
+a:hover{
+    color: white;
+}
+
 /* viajes.html */
+/* inicio */
 .titulo-viajes{
     font-size: 2.5rem;
     color: white;
@@ -93,7 +111,6 @@ header{
     font-size: 18px;
     margin-left: 1.2rem;
     padding: 10px;
-    border-radius: solid 1.5px black;
 }
 
 .form-buscador{
