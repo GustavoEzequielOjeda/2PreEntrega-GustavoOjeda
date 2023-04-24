@@ -103,7 +103,8 @@ a:hover{
 
 .form-viajes-container{
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
