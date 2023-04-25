@@ -59,7 +59,6 @@ header{
 
 .text-foteer-links{
     list-style: none;
-    font-size: x;
 }
 
 .copyright{
@@ -91,7 +90,6 @@ a:hover{
 }
 
 /* viajes.html */
-/* inicio */
 .titulo-viajes{
     font-size: 2.5rem;
     color: white;
@@ -119,4 +117,27 @@ a:hover{
     font-size: 18px;
     margin-left: 0.5rem;
     padding: 10px;
+}
+
+/* contacto.html */
+.section-contacto{
+    text-align: center;
+}
+
+.h1-contacto{
+    color: white;
+    font-size: 2.5rem;
+    background-color: rgb(4, 62, 100);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.space-contacto{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.space-form-contacto{
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
