@@ -141,3 +141,31 @@ a:hover{
     padding-top: 8px;
     padding-bottom: 8px;
 }
+
+/* nosotros.html */
+.h1-nosotros{
+    text-align: center;
+    color: white;
+    font-size: 2.5rem;
+    background-color: rgb(4, 62, 100);
+}
+
+.h2-nosotros{
+    font-size: 2.3rem;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+}
+
+.historia-nosotros{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+    
+}
+
+.texto-historia{
+    margin-right: 2.5rem;
+    margin-left: 2.5rem;
+}
